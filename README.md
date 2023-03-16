@@ -30,6 +30,8 @@ Alertmanager will now be reachable at http://localhost:9093/.
 
 ### Compiling the binary
 
+
+test
 You can either `go get` it:
 
 ```
